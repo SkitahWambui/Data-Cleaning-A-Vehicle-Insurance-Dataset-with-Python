@@ -2,6 +2,9 @@
 ### Description
 This project aims to showcase how Python can be used for data cleaning. It contains methods and functions used to handle common data cleaning problems such as removing outliers.
 
+## Dataset
+The dataset is available on Kaggle. It is titled Vehicle Insurance Data by Mohamadreza Momeni.
+
 ### Features
 - Outlier removal using z-score method
 - Handling missing values
